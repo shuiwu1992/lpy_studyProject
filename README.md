@@ -1,2 +1,6 @@
 # lpy_studyProject
 リホウエンのhtmlについてのテストプロジェクト
+my_first.htmlは初めてのhtmlです。
+self_introduction.htmlは自己紹介についてのテストです。
+haiku.htmlは俳句についてのテストです
+tags.htmlは初めてのタブについてのテストです。
